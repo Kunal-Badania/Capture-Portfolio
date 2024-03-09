@@ -134,11 +134,7 @@ const Nav = () => {
               About Us
             </NavLink>
           </li>
-          <li>
-            <NavLink className="styled-link" to="/work">
-              Our Work
-            </NavLink>
-          </li>
+         
 
           <li>
             <NavLink className="styled-link" to="/contact">
